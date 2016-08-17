@@ -10,4 +10,5 @@ However, this will create the repository directly in your workspace and not in t
 
 Another option would be to create the repository on github first. Afterwards you can clone the github repository and move your code into it.
 
-(downloaded and tested)
+# Tapestry home page
+http://tapestry.apache.org/
